@@ -8,7 +8,6 @@
  Interested in :**Object Detection, Machine Learning, Cyber Security**
  
  [![AaronVincent6411 GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronVincent6411)]
- 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronVincent6411)]
 
 <!--
