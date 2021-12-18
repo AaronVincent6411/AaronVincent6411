@@ -1,11 +1,18 @@
-### Hi there 👋
+# Hello everyone, I am Aaron P Laju, a programmer  
+ Studying in **Adi Shankara Institute Of Engineering and Technology, Kalady**
+ 
+ Studying on **Computer Science Engineering(Artificial Intelligence)**
+ 
+ Basic Languages :**C++, C, Java, Python**
+ 
+ Interested in :**Object Detection, Machine Learning, Cyber Security**
 
 <!--
 **AaronVincent6411/AaronVincent6411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
