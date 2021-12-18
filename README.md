@@ -7,8 +7,9 @@
  
  Interested in :**Object Detection, Machine Learning, Cyber Security**
  
- [![AaronVincent6411 GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronVincent6411)](https://github.com/AaronVincent6411/github-readme-stats)
-
+ [![AaronVincent6411 GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronVincent6411)]
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronVincent6411)]
 
 <!--
 **AaronVincent6411/AaronVincent6411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
