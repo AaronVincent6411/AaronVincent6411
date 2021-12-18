@@ -1,4 +1,4 @@
-# Hello everyone, I am Aaron P Laju, a programmer  
+# Hello everyone, I am Aaron P Laju, a Programmer  
  Studying in **Adi Shankara Institute Of Engineering and Technology, Kalady**
  
  Studying on **Computer Science Engineering(Artificial Intelligence)**
