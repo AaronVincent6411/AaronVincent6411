@@ -1,11 +1,13 @@
-# Hello everyone, I am Aaron P Laju, a Programmer  
- Studying in **Adi Shankara Institute Of Engineering and Technology, Kalady**
+## Hello everyone,
+ I am **Aaron P Laju**, second year **Computer Science (AI) student** from **Adi Shankara Institute Of Engineering and Technology, Kalady.** 
  
- Studying on **Computer Science Engineering(Artificial Intelligence)**
+ I am currently **Technical Lead** of **Hackclub** and **Execom Member** of **Computer Society of India** in my college. 
  
- Basic Languages :**C++, C, Java, Python**
+ My basic programming languages are **C++** and **Python**. 
  
- Interested in :**Object Detection, Machine Learning, Cyber Security**
+ My interested fields are **Machine Learning** and **Cyber security**. 
+ 
+ My current **codechef rating** is **1102**.
  
  ![AaronVincent6411 GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronVincent6411)
  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronVincent6411) -->
