@@ -62,12 +62,12 @@
  </h2>
  
  <h3 align="center">
-  Ratings
+  Max Rating
  </h3>
  
  <h2 align="center">
  <img src="https://img.shields.io/badge/Codechef-FFD43B?style=for-the-badge&logo=Codechef&logoColor=darkblue" /> 
-  <img src="https://img.shields.io/badge/1075-21416b?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/1102-21416b?style=for-the-badge&logoColor=white" />
  </h2>
  
  <h3 align="center">
