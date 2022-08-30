@@ -120,9 +120,9 @@
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aaronvincent6411&show_icons=true&count_private=true&theme=dark" width="300"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aaronvincent6411&show_icons=true&count_private=true&theme=dark" width="300" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronVincent6411&theme=dark" width="300"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronVincent6411&theme=dark" width="300" /></a>
 </p>
  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronVincent6411) -->
