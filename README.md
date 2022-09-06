@@ -8,7 +8,7 @@
 
 
 <h3 align="center">
-  Present Eduation
+  Present Education
  </h3>
 
 <h2 align="center">
