@@ -15,7 +15,7 @@
  <img src="https://img.shields.io/badge/Course-blue.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/Computer Science (AI)-white.svg?&style=for-the-badge" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Year-blue.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/2-white.svg?&style=for-the-badge" /> <br> 
+ <img src="https://img.shields.io/badge/Year-blue.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/3-white.svg?&style=for-the-badge" /> <br> 
  <img src="https://img.shields.io/badge/College-blue.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/Adi Shankara Institute Of Engineering and Technology, Kalady-white.svg?&style=for-the-badge&logo=Adi%20Shankara&logoColor=white" />
  </h2>
  
