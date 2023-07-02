@@ -24,11 +24,7 @@
  </h3>
  
  <h2 align="center">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <img src="https://img.shields.io/badge/-1-blue?style=plastic" width = "28" height = "28" /> -->
- <img src="https://img.shields.io/badge/Technical%20Lead%20Hack%20Club-EC3750?style=for-the-badge&logo=Hack%20Club&logoColor=white" /> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <!-- <img src="https://img.shields.io/badge/-2-blue?style=plastic" width = "28" height = "28" /> -->
  <img src="https://img.shields.io/badge/Technical Co Lead Computer Society Of India-EC3750.svg?&style=for-the-badge" />
  </h2>
 
