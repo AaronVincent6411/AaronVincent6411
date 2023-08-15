@@ -63,7 +63,7 @@
  
  <h2 align="center">
  <img src="https://img.shields.io/badge/Codechef-FFD43B?style=for-the-badge&logo=Codechef&logoColor=darkblue" /> 
-  <img src="https://img.shields.io/badge/1114-21416b?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/1139-21416b?style=for-the-badge&logoColor=white" />
  </h2>
  
  <h3 align="center">
