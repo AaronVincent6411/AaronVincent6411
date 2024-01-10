@@ -25,7 +25,7 @@
  
  <h2 align="center">
 <!-- <img src="https://img.shields.io/badge/-1-blue?style=plastic" width = "28" height = "28" /> -->
- <img src="https://img.shields.io/badge/Technical Co Lead Computer Society Of India-EC3750.svg?&style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Community Lead IEDC ASIET-EC3750.svg?&style=for-the-badge" />
  </h2>
 
 <h3 align="center">
