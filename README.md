@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hello all, I'm Aaron P Laju <img src="https://drive.google.com/uc?export=view&id=1G8ze78csDVS5ikyku5spgMx4pUjVhHM5" align="center" width="70" height="70" />
+  Hello all, I'm Aaron P Laju <img src="https://drive.google.com/uc?export=view&id=1Vf3zPF9eIy9SfxC9Y26VpOLyl9dUbAJJ" align="center" width="100" height="100" />
 </h1>
 
 <h4 align='center'>
@@ -8,14 +8,16 @@
 
 
 <h3 align="center">
-  Present Education
+  Education
  </h3>
 
 <h2 align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Course-blue.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/Computer Science (AI)-white.svg?&style=for-the-badge" /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Year-blue.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/4-white.svg?&style=for-the-badge" /> <br> 
+  
  <img src="https://img.shields.io/badge/College-blue.svg?&style=for-the-badge" /> <img src="https://img.shields.io/badge/Adi Shankara Institute Of Engineering and Technology, Kalady-white.svg?&style=for-the-badge&logo=Adi%20Shankara&logoColor=white" />
  </h2>
  
@@ -25,7 +27,7 @@
  
  <h2 align="center">
 <!-- <img src="https://img.shields.io/badge/-1-blue?style=plastic" width = "28" height = "28" /> -->
- <img src="https://img.shields.io/badge/Community Lead IEDC ASIET-EC3750.svg?&style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Lead Developer Proxus-EC3750.svg?&style=for-the-badge" />
  </h2>
 
 <h3 align="center">
@@ -33,20 +35,22 @@
  </h3>
  
  <h2>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" />
+&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
  </h2>
- 
  <h3 align="center">
   Interested Fields
  </h3>
@@ -54,16 +58,7 @@
  <h2 align="center">
  <img src="https://img.shields.io/badge/Machine Learning-EE4C2C?style=for-the-badge&logoColor=white" /> 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Cyber Security-21416b?style=for-the-badge&logoColor=white" />
- </h2>
- 
- <h3 align="center">
-  Max Rating
- </h3>
- 
- <h2 align="center">
- <img src="https://img.shields.io/badge/Codechef-FFD43B?style=for-the-badge&logo=Codechef&logoColor=darkblue" /> 
-  <img src="https://img.shields.io/badge/1139-21416b?style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/Web Development-%23181717.svg?style=for-the-badge&logoColor=white" />
  </h2>
  
  <h3 align="center">
