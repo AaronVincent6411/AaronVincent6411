@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hello all, I'm Aaron P Laju <img src="https://drive.google.com/uc?export=view&id=1Vf3zPF9eIy9SfxC9Y26VpOLyl9dUbAJJ" align="center" width="100" height="100" />
+  Hello all, I'm Aaron P Laju <img src="https://drive.google.com/uc?export=view&id=1Vf3zPF9eIy9SfxC9Y26VpOLyl9dUbAJJ" align="center" width="80" height="80" />
 </h1>
 
 <h4 align='center'>
